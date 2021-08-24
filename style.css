@@ -2,6 +2,9 @@ body {
     max-width: 900px;
     margin: auto;
     background-color: #eee;
+    background-image: url("https://media0.giphy.com/media/JROB2yZw89dFXrPXR9/giphy.gif?cid=790b76113d6344d282eab8b7b1c32700d60ff6c72b941867&rid=giphy.gif&ct=g");
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
 
 #title {
